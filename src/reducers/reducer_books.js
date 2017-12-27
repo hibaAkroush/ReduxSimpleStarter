@@ -1,8 +1,8 @@
 export default function () {
 	return [
-	{title: 'javascript'},
-	{title: 'hiba'},
-	{title: 'harry poter'},
-	{title: 'ruby'}
+	{title: 'javascript', pages: 91},
+	{title: 'hiba', pages: 232},
+	{title: 'harry poter', pages:672},
+	{title: 'ruby', pages:2}
 	]
 }
